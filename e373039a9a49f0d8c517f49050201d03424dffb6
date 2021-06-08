@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c10f4b3c_bcd1f2e2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-06-08T02:21:34Z",
+      "side": 1,
+      "message": "I know the commit message is off but I don\u0027t wanna create another patchset.\n\nIt\u0027ll be fine when the full merge is pushed anyway",
+      "revId": "e373039a9a49f0d8c517f49050201d03424dffb6",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
