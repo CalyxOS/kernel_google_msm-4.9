@@ -27,6 +27,8 @@ msm-4.9/private/msm-google-modules/wlan/qcacld-3.0
 "
 IN_KERNEL_MODULES=1
 STOP_SHIP_TRACEPRINTK=1
+if [ -z "${FAST_BUILD}" ]; then
 UNSTRIPPED_MODULES="
 wlan.ko
 "
+fi
