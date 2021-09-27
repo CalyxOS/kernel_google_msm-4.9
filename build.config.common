@@ -22,9 +22,7 @@ vmlinux
 System.map
 .config
 "
-EXT_MODULES="
-msm-4.9/private/msm-google-modules/wlan/qcacld-3.0
-"
+EXT_MODULES_MAKEFILE=${KERNEL_DIR}/Makefile.ext_modules.common
 IN_KERNEL_MODULES=1
 STOP_SHIP_TRACEPRINTK=1
 if [ -z "${FAST_BUILD}" ]; then
