@@ -1,5 +1,5 @@
 DEFCONFIG=b1c1_defconfig
-KERNEL_DIR=private/msm-google
+KERNEL_DIR=msm-4.9/private/msm-google
 . ${ROOT_DIR}/${KERNEL_DIR}/build.config.common
 KCFLAGS='-fno-tree-vrp'
 POST_DEFCONFIG_CMDS="check_defconfig && update_gcc_config"
