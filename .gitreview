@@ -1,0 +1,5 @@
+[gerrit]
+host=review.calyxos.org
+port=29418
+project=CalyxOS/kernel_google_msm-4.9
+defaultbranch=android12L
