@@ -3755,7 +3755,7 @@ static int dwc3_msm_probe(struct platform_device *pdev)
 		mdwc->type_c = false;
 
 	/* set the initial value */
-	mdwc->usb_data_enabled = true;
+	mdwc->usb_data_enabled = false;
 
 	mdwc->usb_psy = power_supply_get_by_name("usb");
 	if (!mdwc->usb_psy) {
