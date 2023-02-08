@@ -16,6 +16,24 @@
       "message": "Needs update to include https://review.calyxos.org/c/CalyxOS/kernel_google_msm-4.9/+/15517",
       "revId": "02415d04b670735712802efbb3502a6d3c21965b",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6a62c96f_94a3c2ce",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-02-08T18:11:50Z",
+      "side": 1,
+      "message": "Could pick it too",
+      "parentUuid": "78f75a66_efe4c6af",
+      "revId": "02415d04b670735712802efbb3502a6d3c21965b",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
