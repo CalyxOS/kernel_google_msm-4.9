@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5567f600_b5ad79c4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2023-02-23T18:40:11Z",
+      "side": 1,
+      "message": "This breaks DSP/CHRE/Elmyra. Updating proprietary blobs from another device did not work (tested multiple device sources)",
+      "revId": "abf542c30a30e60b58df4c89c395607100b38797",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
